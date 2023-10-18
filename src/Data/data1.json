@@ -1,0 +1,218 @@
+{
+  "animals": [
+    {
+      "index": 1,
+      "question": "What animal says \"moo\"?",
+      "answer": "Cow",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 2,
+      "question": "Which bird can mimic human speech?",
+      "answer": "Parrot",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 3,
+      "question": "What large mammal is known for its trunk?",
+      "answer": "Elephant",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 4,
+      "question": "What animal is known as \"man's best friend\"?",
+      "answer": "Dog",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 5,
+      "question": "What animal is the fastest land mammal?",
+      "answer": "Cheetah",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 6,
+      "question": "Which creature can change its color to match its surroundings?",
+      "answer": "Chameleon",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 7,
+      "question": "What bird is a symbol of wisdom?",
+      "answer": "Owl",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 8,
+      "question": "What marine animal is known for its eight arms?",
+      "answer": "Octopus",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 9,
+      "question": "What animal is the largest living terrestrial mammal?",
+      "answer": "Elephant",
+      "toughness": "hard",
+      "points": 30
+    },
+    {
+      "index": 10,
+      "question": "Which flightless bird is native to Australia and is known for its strong legs?",
+      "answer": "Emu",
+      "toughness": "hard",
+      "points": 30
+    }
+  ],
+  "countries": [
+    {
+      "index": 1,
+      "question": "What country is known for its kangaroos?",
+      "answer": "Australia",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 2,
+      "question": "Which European nation is famous for its pasta and pizza?",
+      "answer": "Italy",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 3,
+      "question": "In which country is the Eiffel Tower located?",
+      "answer": "France",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 4,
+      "question": "What nation is often associated with the maple leaf?",
+      "answer": "Canada",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 5,
+      "question": "Which country is the largest by land area?",
+      "answer": "Russia",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 6,
+      "question": "What European country is known for its windmills and tulips?",
+      "answer": "Netherlands",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 7,
+      "question": "What Asian country is famous for its martial art, judo?",
+      "answer": "Japan",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 8,
+      "question": "What South American country is home to the Andes Mountains?",
+      "answer": "Peru",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 9,
+      "question": "Which nation is the world's most populous with over a billion people?",
+      "answer": "China",
+      "toughness": "hard",
+      "points": 30
+    },
+    {
+      "index": 10,
+      "question": "In what country is the ancient city of Petra located?",
+      "answer": "Jordan",
+      "toughness": "hard",
+      "points": 30
+    }
+  ],
+  "fruits": [
+    {
+      "index": 1,
+      "question": "What small, red fruit is often associated with Valentine's Day?",
+      "answer": "Cherry",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 2,
+      "question": "Which yellow fruit is known for its curved shape?",
+      "answer": "Banana",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 3,
+      "question": "What small, green fruit is used to make guacamole?",
+      "answer": "Avocado",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 4,
+      "question": "What round, purple fruit is often used to make jelly and pie?",
+      "answer": "Grape",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 5,
+      "question": "What tropical fruit has a spiky outer skin and sweet inner flesh?",
+      "answer": "Pineapple",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 6,
+      "question": "Which orange fruit is a good source of vitamin C and is commonly squeezed for juice?",
+      "answer": "Orange",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 7,
+      "question": "What small, red fruit is known for its antioxidant properties and is often used in desserts?",
+      "answer": "Berry",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 8,
+      "question": "What elongated, green fruit is used in smoothies and is a good source of potassium?",
+      "answer": "Kiwi",
+      "toughness": "medium",
+      "points": 20
+    },
+    {
+      "index": 9,
+      "question": "Which tropical fruit has a hard outer shell and soft, white flesh with black seeds?",
+      "answer": "Dragonfruit",
+      "toughness": "hard",
+      "points": 30
+    },
+    {
+      "index": 10,
+      "question": "What large, yellow fruit has a thick rind and is often eaten in slices?",
+      "answer": "Watermelon",
+      "toughness": "hard",
+      "points": 30
+    }
+  ]
+}

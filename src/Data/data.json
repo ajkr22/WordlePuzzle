@@ -1,0 +1,64 @@
+{
+  "animals": [
+    {
+      "index": 1,
+      "question": "What animal says \"moo\"?",
+      "answer": "Cow",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 2,
+      "question": "Which bird can mimic human speech?",
+      "answer": "Parrot",
+      "toughness": "easy",
+      "points": 10
+    }
+  ],
+  "countries": [
+    {
+      "index": 1,
+      "question": "What country is known for its kangaroos?",
+      "answer": "Australia",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 2,
+      "question": "Which European nation is famous for its pasta and pizza?",
+      "answer": "Italy",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 3,
+      "question": "In which country is the Eiffel Tower located?",
+      "answer": "France",
+      "toughness": "easy",
+      "points": 10
+    }
+  ],
+  "fruits": [
+    {
+      "index": 1,
+      "question": "What small, red fruit is often associated with Valentine's Day?",
+      "answer": "Cherry",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 2,
+      "question": "Which yellow fruit is known for its curved shape?",
+      "answer": "Banana",
+      "toughness": "easy",
+      "points": 10
+    },
+    {
+      "index": 3,
+      "question": "What small, green fruit is used to make guacamole?",
+      "answer": "Avocado",
+      "toughness": "easy",
+      "points": 10
+    }
+  ]
+}
